@@ -1,0 +1,21 @@
+{
+  "name": "nep-responder-buy",
+  "version": "0.0.1",
+  "description": "buy responder for nep",
+  "main": "index.js",
+  "author": {
+    "name": "hxc",
+    "email": "xiaocong.hxc@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigfactory/nep-responder-buy.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "iconv-lite": "^0.4.5",
+    "mime": "^1.2.11",
+    "nep-request": "~0"
+  }
+}
